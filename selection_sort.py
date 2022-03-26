@@ -1,7 +1,3 @@
-from re import I
-from xml.dom import minidom
-
-
 def selection_sort(sequence):
     initial_index = range(0, len(sequence)-1)
     
