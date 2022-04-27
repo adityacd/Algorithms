@@ -19,6 +19,6 @@ def binary_search(sequence, item):
     else:
         print("Please enter a valid sequence")
 
-#x = [1,2,3,22,33,45,69,75,88,90,103,112,128,130,148]
-x = []
+x = [1,2,3,22,33,45,69,75,88,90,103,112,128,130,148]
+#x = []
 print(binary_search(x, 112)) 

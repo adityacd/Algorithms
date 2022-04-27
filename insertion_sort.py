@@ -9,5 +9,5 @@ def insertion_sort(sequence):
             i = i-1
     return sequence
 
-x = [2,4,1,5,8,22,0,3]
+x = [2,4,1,5,8,22,0,3, -2, 3434,-34]
 print(insertion_sort(x))
